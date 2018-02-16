@@ -17,7 +17,7 @@ The script makes a network by creating edges whenever an activity number is ment
 	* Background is not in the default reports generated from the activity database so generating a custom report is necessary. Do `OTI Anywhere Country Page -> Reports -> Report Builder -> Detail`
 	* Add *Background* as a reporting field by adding it from the Purpose section. Remember to add pending to closed, completed, and completed activities (unless you dont care about pending). 
 
-[report builder]: https://raw.githubusercontent.com/otihub/activity_network/master/report-builder.png 
+![report builder](https://raw.githubusercontent.com/otihub/activity_network/master/report-builder.png) 
 
 	* Run report and export to excel, save Report.xls out to csv.  
 
